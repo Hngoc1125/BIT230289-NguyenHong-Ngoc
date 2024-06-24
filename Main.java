@@ -1,6 +1,6 @@
 package Giaithuat ;
 import java.util.Scanner;
-//b1
+//Bai1
 class Node {
     int data; 
     Node next; 
